@@ -23,7 +23,7 @@ To run this bot, you'll need:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/discord-moderation-bot.git
+   git clone https://github.com/Ahmad-Akram7/discord-moderation-bot.git
    cd discord-moderation-bot
 
     Install the required dependencies:
