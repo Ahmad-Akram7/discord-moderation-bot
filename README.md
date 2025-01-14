@@ -96,19 +96,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thank you for using the Discord Moderation Bot! Happy moderating! 🎉
 
 
-### Notes on the README
-
-1. **Features**: Describes what the bot can do—ban, kick, clear messages, and filter bad words.
-2. **Prerequisites**: Lists the required software and libraries needed to run the bot.
-3. **Commands**: Explains each available command and provides an example of its usage.
-4. **Running the Bot**: Describes how to start the bot after setting up the `.env` file.
-5. **Permissions**: Important to mention the bot's necessary permissions for operations like banning and kicking.
-6. **Contributing**: Encourages open-source contributions from others if they'd like to add more features or fix bugs.
-7. **License**: Specifies the open-source license, in this case, MIT, but you can change it based on your needs.
-
-### Example Folder Structure
-
-/discord-moderation-bot ├── main.py ├── requirements.txt ├── .env ├── README.md └── LICENSE
-
-
-Feel free to adjust the text to fit your specific bot's features and settings. Let me know if you need any further modifications!
