@@ -2,6 +2,7 @@
 
 This is a simple yet powerful Discord moderation bot built with Python and the [discord.py](https://discordpy.readthedocs.io/) library. It includes a set of moderation commands and an anti-bad word filter to help manage your server.
 
+
 ## Features
 
 - **Ban a member**: Ban a member from the server with an optional reason.
